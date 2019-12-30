@@ -1,9 +1,6 @@
 #!/bin/bash
+# Ha hahahahah
 
-
-#ent=$1
-#prj=$2
-#tech=$3
 
 
 for argument in "$@"
