@@ -1,0 +1,9 @@
+.aws/
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.ssh/
+.viminfo
+
