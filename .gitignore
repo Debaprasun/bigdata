@@ -6,4 +6,5 @@
 .lesshst
 .ssh/
 .viminfo
+.bash_history
 
